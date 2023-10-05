@@ -15,9 +15,10 @@ body{
     float: left;
 }
 .container{
-    margin: 150px 400px;
+    margin: 150px 600px;
     height: 1000px;
-    width: 1000px;  
+    width: 1200px;  
+   
 }
 
 h1{
@@ -31,14 +32,19 @@ h1{
 }
 .colonna{
     float: left;
-    margin: 40px 20px;
+    margin: 20px 20px;
     line-height: 30px;
     color: white;
     height: 100px;
     width: 350px;
-    background-color: rgba(23, 23, 23, 0.943);
-   
+    background-color: rgba(23, 23, 23, 0.943);  
 }
 img{
     height: 100px;
+}
+a{
+    color: rgb(0, 132, 255);
+}
+.testo-allineato{
+    margin-left: 70px;
 }
