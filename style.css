@@ -1,0 +1,28 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+/* .clearfix: :after{
+    display: block;
+    clear: both;
+}   */
+body{
+    background-color: black;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    text-align: center;
+    margin: 20px 200px;
+    height: fit-content;
+    background-color: aqua;
+}
+h1{
+    color: deeppink;
+    margin: 20px 200px;
+}  
+.colonna{
+    float: left;
+
+}
